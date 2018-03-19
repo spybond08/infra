@@ -1,7 +1,3 @@
-# infra
-
-
-
 # Infra
 infrastracture repo
 ## Homework 5
