@@ -22,7 +22,7 @@ sudo systemctl status mongod
 # Prepare
 useradd $USER
 mkdir -p $HOME_DIR && cd $HOME_DIR
-git clone https://github.com/Otus-DevOps-2017-11/reddit.git
+git clone https://github.com/Artemmkin/reddit.git
 chown -R $USER:$USER $HOME_DIR
 
 # Run app
